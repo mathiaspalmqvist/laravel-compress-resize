@@ -14,5 +14,7 @@
             "LaravelCompressResize\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "intervention/image": "^2.5"
+    }
 }
